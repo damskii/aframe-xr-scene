@@ -1,1 +1,1 @@
-# aframe-xr-gltf
+# aframe-xr-scene
